@@ -10,8 +10,8 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Personnes
-  slug: personnes
+- title: À propos
+  slug: a-propos
   target: "/personnes/"
   kind: page
   new_tab: false
